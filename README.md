@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi👋, I'm Selome, a Security Analyst and IT Proffessional
 
-<!--
-**Seloboss15/Seloboss15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ About Me
 
-Here are some ideas to get you started:
+    Security Analyst with hands-on experience in security event monitoring, incident response, and threat management
+    Skilled in SIEM tools such as Splunk
+    Adept at vulnerability management, log analysis, and network security
+    Always eager to learn, automate, and share knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Skills
+
+    Security Information and Event Management (SIEM)
+    Incident Response & Investigation
+    Threat Detection & Threat Hunting
+    Vulnerability Assessment & Management
+    Log Analysis & Automation
+    Risk Assessment
+    Network & Endpoint Security
+
+🚀 Cybersecurity Projects
+Project Name	Description
+Myworking-scripts	Scripts and tools for security analysis
+Splunk-SIEM-Portfolio	Hands-on SIEM experience with Splunk
+🎓 Education
+Degree	Institution
+MSc Cybersecurity & Digital Forensics (in progress)	Illinois Institute of Technology
+BSc Cybersecurity	Purdue Global
+BSc Computer Science	Les Cours Sonou
