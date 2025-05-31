@@ -17,12 +17,41 @@
     Risk Assessment
     Network & Endpoint Security
 
-🚀 Cybersecurity Projects
-Project Name	Description
-Myworking-scripts	Scripts and tools for security analysis
-Splunk-SIEM-Portfolio	Hands-on SIEM experience with Splunk
-🎓 Education
-Degree	Institution
-MSc Cybersecurity & Digital Forensics (in progress)	Illinois Institute of Technology
-BSc Cybersecurity	Purdue Global
-BSc Computer Science	Les Cours Sonou
+## 🚀 Cybersecurity Projects
+
+
+
+Project Name
+Description
+
+
+
+Myworking-scripts
+Scripts and tools for security analysis
+
+
+Splunk-SIEM-Portfolio
+Hands-on SIEM experience with Splunk
+
+
+## 🎓 Education
+
+
+
+Degree
+Institution
+
+
+
+MSc Cybersecurity & Digital Forensics (in progress)
+Illinois Institute of Technology
+
+
+BSc Cybersecurity
+Purdue Global
+
+
+BSc Computer Science
+Les Cours Sonou
+
+
